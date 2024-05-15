@@ -1,4 +1,4 @@
-# Diploma-Thesis
+# Diploma Thesis
 
 Here is hosted the source code of the thesis "Study of Causal Machine Learning Techniques on Data from IoT Applications" https://hdl.handle.net/10889/25228. For writing this thesis, the IDEAL Household Energy Dataset was used https://doi.org/10.7488/ds/2836.
 
