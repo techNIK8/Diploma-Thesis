@@ -1,6 +1,6 @@
 # Diploma Thesis
 
-Here is hosted the source code of the thesis "Study of Causal Machine Learning Techniques on Data from IoT Applications" https://hdl.handle.net/10889/25228. For writing this thesis, the IDEAL Household Energy Dataset was used https://doi.org/10.7488/ds/2836.
+Here is hosted the source code of the thesis "Study of Causal Machine Learning Techniques on Data from IoT Applications" https://hdl.handle.net/10889/25228. For writing this thesis, the IDEAL Household Energy Dataset was used, https://doi.org/10.7488/ds/2836.
 
 As described in thesis, the file structure is as follows:
 In the "Data Preprocessing" folder, the dataset is processed (mean calculation based on time criteria, zero values removal, alphanumeric values to numeric values convertion etc.)
